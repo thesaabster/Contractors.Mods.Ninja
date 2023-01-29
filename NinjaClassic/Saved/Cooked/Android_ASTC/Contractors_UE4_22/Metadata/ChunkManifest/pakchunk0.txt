@@ -20,7 +20,12 @@ E:\ModKit_0.93.0\NinjaClassicProject\Mods\NinjaClassic\Saved\Cooked\Android_ASTC
 E:\ModKit_0.93.0\NinjaClassicProject\Mods\NinjaClassic\Saved\Cooked\Android_ASTC\Contractors_UE4_22\Mods\NinjaClassic\Content\NinjaClassic_LoadoutPlan
 E:\ModKit_0.93.0\NinjaClassicProject\Mods\NinjaClassic\Saved\Cooked\Android_ASTC\Contractors_UE4_22\Mods\NinjaClassic\Content\NinjaClassic_ModInfo
 E:\ModKit_0.93.0\NinjaClassicProject\Mods\NinjaClassic\Saved\Cooked\Android_ASTC\Contractors_UE4_22\Mods\NinjaClassic\Content\NinjaTest_Bow
+E:\ModKit_0.93.0\NinjaClassicProject\Mods\NinjaClassic\Saved\Cooked\Android_ASTC\Contractors_UE4_22\Mods\NinjaClassic\Content\NinjaTest_BowBlack
+E:\ModKit_0.93.0\NinjaClassicProject\Mods\NinjaClassic\Saved\Cooked\Android_ASTC\Contractors_UE4_22\Mods\NinjaClassic\Content\NinjaTest_BowBlue
+E:\ModKit_0.93.0\NinjaClassicProject\Mods\NinjaClassic\Saved\Cooked\Android_ASTC\Contractors_UE4_22\Mods\NinjaClassic\Content\NinjaTest_BowCamo
 E:\ModKit_0.93.0\NinjaClassicProject\Mods\NinjaClassic\Saved\Cooked\Android_ASTC\Contractors_UE4_22\Mods\NinjaClassic\Content\NinjaTest_BowHolster
+E:\ModKit_0.93.0\NinjaClassicProject\Mods\NinjaClassic\Saved\Cooked\Android_ASTC\Contractors_UE4_22\Mods\NinjaClassic\Content\NinjaTest_BowHolsterInf
+E:\ModKit_0.93.0\NinjaClassicProject\Mods\NinjaClassic\Saved\Cooked\Android_ASTC\Contractors_UE4_22\Mods\NinjaClassic\Content\NinjaTest_BowRed
 E:\ModKit_0.93.0\NinjaClassicProject\Mods\NinjaClassic\Saved\Cooked\Android_ASTC\Contractors_UE4_22\Mods\NinjaClassic\Content\NinjaWarrior_ArrowHolder
 E:\ModKit_0.93.0\NinjaClassicProject\Mods\NinjaClassic\Saved\Cooked\Android_ASTC\Contractors_UE4_22\Mods\NinjaClassic\Content\NinjaWarrior_ArrowHolster
 E:\ModKit_0.93.0\NinjaClassicProject\Mods\NinjaClassic\Saved\Cooked\Android_ASTC\Engine\Content\ArtTools\RenderToTexture\Materials\Debug\M_Emissive_Color
